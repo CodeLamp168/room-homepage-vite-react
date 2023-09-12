@@ -76,7 +76,7 @@ position:relative;
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: contain;
-    background-image:url(./images/logo.svg);
+    background-image:url('/logo.svg');
 
     display:flex;
 }
@@ -352,10 +352,10 @@ max-height: 100vh;
 
 
     button:nth-child(1){
-        background-image:url('./images/icon-angle-left.svg');
+        background-image:url('/icon-angle-left.svg');
     }
     button:nth-child(2){
-        background-image:url('./images/icon-angle-right.svg');
+        background-image:url('/icon-angle-right.svg');
     }
 }
 

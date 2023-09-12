@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 
-import HamburgerBtn from '../images/icon-hamburger.svg'
-import ExitBtn from '../images/icon-close.svg'
+import HamburgerBtn from '/icon-hamburger.svg'
+import ExitBtn from '/icon-close.svg'
 
 
 function HeaderLogo(){

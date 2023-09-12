@@ -1,6 +1,6 @@
-import HeroImage1 from '../images/desktop-image-hero-1.jpg'
-import HeroImage2 from '../images/desktop-image-hero-2.jpg'
-import HeroImage3 from '../images/desktop-image-hero-3.jpg'
+import HeroImage1 from '/desktop-image-hero-1.jpg'
+import HeroImage2 from '/desktop-image-hero-2.jpg'
+import HeroImage3 from '/desktop-image-hero-3.jpg'
 
 export function ImageDisplay({activeIndex, handlePrevious, handleNext }){
 

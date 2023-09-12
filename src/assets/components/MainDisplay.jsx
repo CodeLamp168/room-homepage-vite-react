@@ -1,6 +1,6 @@
 import React, { useState, useRef, useCallback, useEffect } from "react";
-import AboutImageDark from '../images/image-about-dark.jpg'
-import AboutImageLight from '../images/image-about-light.jpg'
+import AboutImageDark from '/image-about-dark.jpg'
+import AboutImageLight from '/image-about-light.jpg'
 
 import { HeroInfo } from "./HeroSectionComponents";
 import { ImageDisplay } from "./HeroSectionComponents";
